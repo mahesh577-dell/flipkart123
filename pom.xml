@@ -2,12 +2,12 @@
 
 <modelVersion>4.0.0</modelVersion>
   
-  <groupId>com.facebook</groupId>
-  <artifactId>facebook</artifactId>
-  <packaging>war</packaging>
+  <groupId>com.flipkart</groupId>
+  <artifactId>flipkart</artifactId>
+  <packaging>jar</packaging>
   <version>1.0-RELEASE</version>
 
-  <name>facebook</name>
+  <name>flipkart</name>
 
   <dependencies>
     <dependency>
