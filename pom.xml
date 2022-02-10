@@ -17,5 +17,9 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  
+  <build>
+    <finalName>mahesh</finalName>
+  </build>
 
 </project>
